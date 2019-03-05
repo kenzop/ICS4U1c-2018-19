@@ -17,6 +17,7 @@ https://vimeo.com/168063840
 If Python and Arcade are installed, this example can be run from the command line with:
 python -m arcade.examples.bouncing_rectangle
 
+If Python and Arcade are installed, this example can be run from the command line with:
 """
 
 import arcade
